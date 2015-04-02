@@ -1,0 +1,13 @@
+c:\users\elcot\documents\visual studio 2013\Projects\construction\construction\bin\Debug\construction.exe.config
+c:\users\elcot\documents\visual studio 2013\Projects\construction\construction\bin\Debug\construction.exe
+c:\users\elcot\documents\visual studio 2013\Projects\construction\construction\bin\Debug\construction.pdb
+c:\users\elcot\documents\visual studio 2013\Projects\construction\construction\bin\Debug\construction.xml
+c:\users\elcot\documents\visual studio 2013\Projects\construction\construction\obj\Debug\construction.apartment.resources
+c:\users\elcot\documents\visual studio 2013\Projects\construction\construction\obj\Debug\construction.Resources.resources
+c:\users\elcot\documents\visual studio 2013\Projects\construction\construction\obj\Debug\construction.vbproj.GenerateResource.Cache
+c:\users\elcot\documents\visual studio 2013\Projects\construction\construction\obj\Debug\construction.exe
+c:\users\elcot\documents\visual studio 2013\Projects\construction\construction\obj\Debug\construction.xml
+c:\users\elcot\documents\visual studio 2013\Projects\construction\construction\obj\Debug\construction.pdb
+C:\Users\elcot\Documents\Visual Studio 2013\Projects\construction\construction\obj\Debug\construction.flat.resources
+C:\Users\elcot\Documents\Visual Studio 2013\Projects\construction\construction\obj\Debug\construction.labourer.resources
+C:\Users\elcot\Documents\Visual Studio 2013\Projects\construction\construction\obj\Debug\construction.manager.resources

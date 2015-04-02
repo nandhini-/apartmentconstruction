@@ -1,0 +1,74 @@
+C:\Users\elcot\Documents\Visual Studio 2013\Projects\construction\construction\bin\x86\Debug\construction.exe.config
+C:\Users\elcot\Documents\Visual Studio 2013\Projects\construction\construction\bin\x86\Debug\construction.exe
+C:\Users\elcot\Documents\Visual Studio 2013\Projects\construction\construction\bin\x86\Debug\construction.pdb
+C:\Users\elcot\Documents\Visual Studio 2013\Projects\construction\construction\bin\x86\Debug\construction.xml
+C:\Users\elcot\Documents\Visual Studio 2013\Projects\construction\construction\obj\x86\Debug\construction.apartment.resources
+C:\Users\elcot\Documents\Visual Studio 2013\Projects\construction\construction\obj\x86\Debug\construction.flat.resources
+C:\Users\elcot\Documents\Visual Studio 2013\Projects\construction\construction\obj\x86\Debug\construction.labourer.resources
+C:\Users\elcot\Documents\Visual Studio 2013\Projects\construction\construction\obj\x86\Debug\construction.manager.resources
+C:\Users\elcot\Documents\Visual Studio 2013\Projects\construction\construction\obj\x86\Debug\construction.Resources.resources
+C:\Users\elcot\Documents\Visual Studio 2013\Projects\construction\construction\obj\x86\Debug\construction.vbproj.GenerateResource.Cache
+C:\Users\elcot\Documents\Visual Studio 2013\Projects\construction\construction\obj\x86\Debug\construction.exe
+C:\Users\elcot\Documents\Visual Studio 2013\Projects\construction\construction\obj\x86\Debug\construction.xml
+C:\Users\elcot\Documents\Visual Studio 2013\Projects\construction\construction\obj\x86\Debug\construction.pdb
+C:\Users\elcot\Documents\Visual Studio 2013\Projects\construction\construction\obj\x86\Debug\construction.Form1.resources
+C:\Users\elcot\Documents\Visual Studio 2013\Projects\construction\construction\obj\x86\Debug\construction.customer.resources
+C:\Users\elcot\Documents\Visual Studio 2013\Projects\construction\construction\obj\x86\Debug\construction.login.resources
+C:\Users\elcot\Documents\Visual Studio 2013\Projects\construction\construction\obj\x86\Debug\construction.Form2.resources
+C:\Users\elcot\Documents\Visual Studio 2013\Projects\construction\construction\obj\x86\Debug\construction.customer1.resources
+C:\Users\elcot\Documents\Visual Studio 2013\Projects\construction\construction\obj\x86\Debug\construction.Form3.resources
+C:\Users\elcot\Documents\Visual Studio 2013\Projects\construction\construction\obj\x86\Debug\construction.Form4.resources
+C:\Users\elcot\Documents\Visual Studio 2013\Projects\construction\construction\obj\x86\Debug\construction.Form5.resources
+C:\Users\elcot\Documents\Visual Studio 2013\Projects\construction\construction\obj\x86\Debug\construction.Form6.resources
+C:\Users\elcot\Documents\Visual Studio 2008\Projects\construction\construction\bin\x86\Debug\construction.exe.config
+C:\Users\elcot\Documents\Visual Studio 2008\Projects\construction\construction\obj\x86\Debug\construction.exe
+C:\Users\elcot\Documents\Visual Studio 2008\Projects\construction\construction\obj\x86\Debug\construction.xml
+C:\Users\elcot\Documents\Visual Studio 2008\Projects\construction\construction\obj\x86\Debug\construction.pdb
+C:\Users\elcot\Documents\Visual Studio 2008\Projects\construction\construction\bin\x86\Debug\construction.exe.manifest
+C:\Users\elcot\Documents\Visual Studio 2008\Projects\construction\construction\bin\x86\Debug\construction.application
+C:\Users\elcot\Documents\Visual Studio 2008\Projects\construction\construction\bin\x86\Debug\construction.exe
+C:\Users\elcot\Documents\Visual Studio 2008\Projects\construction\construction\bin\x86\Debug\construction.pdb
+C:\Users\elcot\Documents\Visual Studio 2008\Projects\construction\construction\bin\x86\Debug\construction.xml
+C:\Users\elcot\Documents\Visual Studio 2008\Projects\construction\construction\obj\x86\Debug\construction.apartment.resources
+C:\Users\elcot\Documents\Visual Studio 2008\Projects\construction\construction\obj\x86\Debug\construction.customer.resources
+C:\Users\elcot\Documents\Visual Studio 2008\Projects\construction\construction\obj\x86\Debug\construction.customer1.resources
+C:\Users\elcot\Documents\Visual Studio 2008\Projects\construction\construction\obj\x86\Debug\construction.flat.resources
+C:\Users\elcot\Documents\Visual Studio 2008\Projects\construction\construction\obj\x86\Debug\construction.Form1.resources
+C:\Users\elcot\Documents\Visual Studio 2008\Projects\construction\construction\obj\x86\Debug\construction.Form2.resources
+C:\Users\elcot\Documents\Visual Studio 2008\Projects\construction\construction\obj\x86\Debug\construction.Form3.resources
+C:\Users\elcot\Documents\Visual Studio 2008\Projects\construction\construction\obj\x86\Debug\construction.Form4.resources
+C:\Users\elcot\Documents\Visual Studio 2008\Projects\construction\construction\obj\x86\Debug\construction.Form5.resources
+C:\Users\elcot\Documents\Visual Studio 2008\Projects\construction\construction\obj\x86\Debug\construction.Form6.resources
+C:\Users\elcot\Documents\Visual Studio 2008\Projects\construction\construction\obj\x86\Debug\construction.labourer.resources
+C:\Users\elcot\Documents\Visual Studio 2008\Projects\construction\construction\obj\x86\Debug\construction.login.resources
+C:\Users\elcot\Documents\Visual Studio 2008\Projects\construction\construction\obj\x86\Debug\construction.manager.resources
+C:\Users\elcot\Documents\Visual Studio 2008\Projects\construction\construction\obj\x86\Debug\construction.Resources.resources
+C:\Users\elcot\Documents\Visual Studio 2008\Projects\construction\construction\obj\x86\Debug\construction.vbproj.GenerateResource.Cache
+C:\Users\elcot\Documents\Visual Studio 2008\Projects\construction\construction\obj\x86\Debug\construction.exe.manifest
+C:\Users\elcot\Documents\Visual Studio 2008\Projects\construction\construction\obj\x86\Debug\construction.application
+C:\Users\elcot\Desktop\construction\construction\bin\x86\Debug\construction.exe.config
+C:\Users\elcot\Desktop\construction\construction\obj\x86\Debug\construction.exe
+C:\Users\elcot\Desktop\construction\construction\obj\x86\Debug\construction.xml
+C:\Users\elcot\Desktop\construction\construction\obj\x86\Debug\construction.pdb
+C:\Users\elcot\Desktop\construction\construction\bin\x86\Debug\construction.exe.manifest
+C:\Users\elcot\Desktop\construction\construction\bin\x86\Debug\construction.application
+C:\Users\elcot\Desktop\construction\construction\bin\x86\Debug\construction.exe
+C:\Users\elcot\Desktop\construction\construction\bin\x86\Debug\construction.pdb
+C:\Users\elcot\Desktop\construction\construction\bin\x86\Debug\construction.xml
+C:\Users\elcot\Desktop\construction\construction\obj\x86\Debug\construction.apartment.resources
+C:\Users\elcot\Desktop\construction\construction\obj\x86\Debug\construction.customer.resources
+C:\Users\elcot\Desktop\construction\construction\obj\x86\Debug\construction.customer1.resources
+C:\Users\elcot\Desktop\construction\construction\obj\x86\Debug\construction.flat.resources
+C:\Users\elcot\Desktop\construction\construction\obj\x86\Debug\construction.Form1.resources
+C:\Users\elcot\Desktop\construction\construction\obj\x86\Debug\construction.Form2.resources
+C:\Users\elcot\Desktop\construction\construction\obj\x86\Debug\construction.Form3.resources
+C:\Users\elcot\Desktop\construction\construction\obj\x86\Debug\construction.Form4.resources
+C:\Users\elcot\Desktop\construction\construction\obj\x86\Debug\construction.Form5.resources
+C:\Users\elcot\Desktop\construction\construction\obj\x86\Debug\construction.Form6.resources
+C:\Users\elcot\Desktop\construction\construction\obj\x86\Debug\construction.labourer.resources
+C:\Users\elcot\Desktop\construction\construction\obj\x86\Debug\construction.login.resources
+C:\Users\elcot\Desktop\construction\construction\obj\x86\Debug\construction.manager.resources
+C:\Users\elcot\Desktop\construction\construction\obj\x86\Debug\construction.Resources.resources
+C:\Users\elcot\Desktop\construction\construction\obj\x86\Debug\construction.vbproj.GenerateResource.Cache
+C:\Users\elcot\Desktop\construction\construction\obj\x86\Debug\construction.exe.manifest
+C:\Users\elcot\Desktop\construction\construction\obj\x86\Debug\construction.application
